@@ -1,5 +1,5 @@
 <h1>Welcome to Foodieland - Your React-based Culinary Website!</h1>
-<br>
+
 Foodieland is a culinary website project study developed using the React library, allowing you to explore, discover, and share a variety of delicious and exciting recipes. This repository contains all the source code and resources required to run and customize your very own culinary website.
 
 <h2>Key Features</h2>
